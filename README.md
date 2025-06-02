@@ -16,7 +16,6 @@ I'm a Master's student in Chemistry at [EPFL](https://www.epfl.ch/), specializin
 
 - **Lab Skills**: Organic Synthesis · NMR · IR · Column Chromatography · TLC
 - **Digital Tools**: Python · RDKit · Jupyter · ChemDraw · Word · Git
-- **Interests**: Computational Chemistry · Molecular Modeling · Data Analysis
 
 ---
 
@@ -27,4 +26,9 @@ Feel free to connect or collaborate on anything chemistry or code related!
 - 📨 [Your Email](william.pellassy@epfl.ch)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/william-pellassy-b095562a4/)
 
+---
 
+## 🎉 Fun Fact
+
+I'm a proud supporter of **Karmine Corp 💙** — *Kaaaaaa Corp baby!*
+Check out their [official shop](https://www.karminecorp.fr/pages/shop) for the latest merch.
