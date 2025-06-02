@@ -30,5 +30,5 @@ Feel free to connect or collaborate on anything chemistry or code related!
 
 ## 🎉 Fun Fact
 
-I'm a proud supporter of **Karmine Corp 💙** — *Kaaaaaa Corp baby!*
+I'm a proud supporter of **Karmine Corp 💙** — *Kaaaaaa Corp baby!*  
 Check out their [official shop](https://www.karminecorp.fr/pages/shop) for the latest merch.
