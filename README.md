@@ -23,7 +23,7 @@ I'm a Master's student in Chemistry at [EPFL](https://www.epfl.ch/), specializin
 
 Feel free to connect or collaborate on anything chemistry or code related!
 
-- 📨 [Your Email](william.pellassy@epfl.ch)
+- 📨 [Email](william.pellassy@epfl.ch)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/william-pellassy-b095562a4/)
 
 ---
